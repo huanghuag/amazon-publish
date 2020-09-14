@@ -1,5 +1,5 @@
 {
-  "name": "binhuang/amazon_api",
+  "name": "binhuang/amazon-publish",
   "description": "Library to interface with Amazon MWS",
   "license": "MIT",
   "keywords": [
@@ -9,8 +9,8 @@
   "minimum-stability": "dev",
   "authors": [
     {
-      "name": "Michiel Meertens",
-      "email": "meertensmichiel28@gmail.com"
+      "name": "",
+      "email": ""
     }
   ],
   "require": {
