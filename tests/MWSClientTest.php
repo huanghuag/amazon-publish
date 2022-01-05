@@ -17,7 +17,7 @@ final class MWSClientTest extends TestCase {
       ->disableOriginalConstructor()
       ->setMethods(['ListOrderItems'])
       ->getMock();
-
+    echo 1;
     $stub->method('ListOrderItems')
       ->will($this->throwException(new Exception('Some Exception')));
 
